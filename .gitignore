@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# dev 
+*kdebug*
+.vscode/
+.cursor/
+.DS_Store
+infra/

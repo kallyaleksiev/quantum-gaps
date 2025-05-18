@@ -1,0 +1,187 @@
+{
+    "Algorithms": [
+        "Approximation_algorithms",
+        "Combinatorial_algorithms",
+        "Cryptographic_algorithms",
+        "Fingerprinting_algorithms",
+        "Computational_number_theory",
+        "Optimization_algorithms_and_methods",
+        "Routing_algorithms",
+        "Concurrent_algorithms",
+        "Numerical_analysis",
+        "Pseudo-polynomial_time_algorithms",
+        "Distributed_algorithms",
+        "Unicode_algorithms",
+        "Matrix_multiplication_algorithms",
+        "Computer_algebra",
+        "Algorithmic_trading",
+        "Quantum_algorithms",
+        "Pseudorandom_number_generators",
+        "Algorithm_description_languages",
+        "Calendar_algorithms",
+        "Error_detection_and_correction",
+        "External_memory_algorithms",
+        "Memory_management_algorithms",
+        "Heuristic_algorithms",
+        "Scheduling_algorithms",
+        "Digit-by-digit_algorithms",
+        "Signal_processing",
+        "Database_algorithms",
+        "Recursion",
+        "Online_algorithms",
+        "Computational_group_theory",
+        "Computer_arithmetic_algorithms",
+        "Search_algorithms",
+        "Graph_algorithms",
+        "Root-finding_algorithms",
+        "Bioinformatics_algorithms",
+        "Machine_learning_algorithms",
+        "Checksum_algorithms",
+        "Networking_algorithms",
+        "Compression_algorithms",
+        "Selection_algorithms",
+        "Evolutionary_algorithms",
+        "Algorithms_on_strings",
+        "Sorting_algorithms",
+        "Pattern_matching"
+    ],
+    "Combinatorial_algorithms": [
+        "Exchange_algorithms"
+    ],
+    "Cryptographic_algorithms": [
+        "Information-theoretically_secure_algorithms",
+        "Cryptographically_secure_pseudorandom_number_generators",
+        "Cryptographic_hash_functions",
+        "Type_1_encryption_algorithms",
+        "Advanced_Access_Content_System",
+        "Integer_factorization_algorithms",
+        "Primality_tests",
+        "Broken_cryptography_algorithms",
+        "Type_3_encryption_algorithms",
+        "Asymmetric-key_algorithms",
+        "Symmetric-key_algorithms",
+        "Type_2_encryption_algorithms",
+        "Cryptanalytic_algorithms"
+    ],
+    "Computational_number_theory": [
+        "Number_theoretic_algorithms"
+    ],
+    "Concurrent_algorithms": [
+        "Concurrency_control_algorithms"
+    ],
+    "Numerical_analysis": [
+        "Numerical_analysts",
+        "Numerical_differential_equations",
+        "Structural_analysis",
+        "Approximation_theory",
+        "Numerical_integration_(quadrature)",
+        "First_order_methods",
+        "Numerical_linear_algebra",
+        "Iterative_methods",
+        "Interpolation"
+    ],
+    "Distributed_algorithms": [
+        "Termination_algorithms",
+        "Concurrency_control_algorithms",
+        "Agreement_algorithms"
+    ],
+    "Pseudorandom_number_generators": [
+        "Cryptographically_secure_pseudorandom_number_generators"
+    ],
+    "Algorithm_description_languages": [
+        "Structured_English"
+    ],
+    "Error_detection_and_correction": [
+        "Hash_functions",
+        "Cyclic_redundancy_checks",
+        "Capacity-approaching_codes",
+        "Capacity-achieving_codes",
+        "Message_authentication_codes"
+    ],
+    "External_memory_algorithms": [
+        "Join_algorithms"
+    ],
+    "Memory_management_algorithms": [
+        "Automatic_memory_management"
+    ],
+    "Scheduling_algorithms": [
+        "Network_scheduling_algorithms",
+        "Processor_scheduling_algorithms",
+        "Disk_scheduling_algorithms"
+    ],
+    "Signal_processing": [
+        "Signal_processing_metrics",
+        "Transient_response_characteristics",
+        "Noise_(electronics)",
+        "Signal_processing_filter",
+        "Audio_electronics",
+        "Transducers",
+        "Radar_signal_processing"
+    ],
+    "Database_algorithms": [
+        "Join_algorithms"
+    ],
+    "Recursion": [
+        "Recursion_schemes"
+    ],
+    "Online_algorithms": [
+        "Online_sorts"
+    ],
+    "Computer_arithmetic_algorithms": [
+        "Pi_algorithms",
+        "Shift-and-add_algorithms"
+    ],
+    "Search_algorithms": [
+        "String_matching_algorithms",
+        "Internet_search_algorithms",
+        "Hashing"
+    ],
+    "Graph_algorithms": [
+        "Network_flow"
+    ],
+    "Bioinformatics_algorithms": [
+        "Sequence_alignment_algorithms",
+        "Genetic_algorithms"
+    ],
+    "Machine_learning_algorithms": [
+        "Genetic_algorithms"
+    ],
+    "Checksum_algorithms": [
+        "Cyclic_redundancy_checks"
+    ],
+    "Networking_algorithms": [
+        "Network_scheduling_algorithms"
+    ],
+    "Compression_algorithms": [
+        "Lossless_compression_algorithms",
+        "Lossy_compression_algorithms"
+    ],
+    "Evolutionary_algorithms": [
+        "Genetic_programming",
+        "Gene_expression_programming",
+        "Genetic_algorithms",
+        "Nature-inspired_metaheuristics"
+    ],
+    "Algorithms_on_strings": [
+        "Sequence_alignment_algorithms",
+        "String_matching_algorithms",
+        "String_collation_algorithms",
+        "Problems_on_strings",
+        "String_sorting_algorithms",
+        "Phonetic_algorithms",
+        "Parsing_algorithms"
+    ],
+    "Sorting_algorithms": [
+        "String_sorting_algorithms",
+        "Comparison_sorts",
+        "Stable_sorts",
+        "Online_sorts"
+    ],
+    "Pattern_matching": [
+        "String_matching_algorithms",
+        "Pattern_matching_programming_languages",
+        "Regular_expressions",
+        "Phonetic_algorithms",
+        "Permutation_patterns"
+    ]
+}

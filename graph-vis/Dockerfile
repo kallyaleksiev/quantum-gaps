@@ -17,8 +17,8 @@ RUN pnpm install
 COPY . .
 
 ENV NODE_ENV production
-ENV NEXT_PUBLIC_QG_ROOT_NODE Algorithms
-RUN pnpm build 
+ENV NEXT_PUBLIC_QG_ROOT_NODE Algorithms_and_data_structures
+RUN pnpm build
 
 # Runtime Stage
 FROM ubuntu:22.04 AS final
